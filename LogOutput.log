@@ -1,0 +1,149 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (20-08-2024 14:20:34)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 29 plugins to load
+[Warning:   BepInEx] Plugin [Custom Boombox Music 1.4.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [DiscountAlert 2.3.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [HealthMetrics 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Terminal Api 1.5.4]
+[Info   :Terminal Api] Plugin TerminalApi is loaded!
+[Info   :   BepInEx] Loading [Terminal Clock 1.0.5]
+[Info   :Terminal Clock] Plugin Terminal Clock is loaded!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.7.7]
+[Info   :Lethal Company Input Utils] Registered InputUtilsExtendedMouse Layout Override!
+[Info   :Lethal Company Input Utils] InputUtils 0.7.7 has finished loading!
+[Info   :   BepInEx] Loading [RuntimeNetcodeRPCValidator 0.2.5]
+[Info   :   BepInEx] Loading [BetterEmotes 1.5.4]
+[Info   :BetterEmotes] BetterEmotes loading...
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SignEmoteText.
+[Info   :RuntimeNetcodeRPCValidator] Patched 1 ServerRPC & 1 ClientRPC on NetworkBehaviour SyncAnimatorToOthers.
+[Info   :RuntimeNetcodeRPCValidator] Patched 2 ServerRPCs & 2 ClientRPCs on NetworkBehaviour SyncVRState.
+[Info   :RuntimeNetcodeRPCValidator] Successfully registered first patch for type PlayerControllerB.Awake | Triggered by BetterEmotes
+[Info   :BetterEmotes] BetterEmotes loaded
+[Info   :   BepInEx] Loading [BetterTeleporter 1.2.2]
+[Info   :BetterTeleporter] Patched 'ShipTeleporterPatch.TeleportPlayerOutWithInverseTeleporter'
+[Info   :BetterTeleporter] Patched 'ShipTeleporterPatch.beamUpPlayer'
+[Info   :BetterTeleporter] Plugin BetterTeleporter is loaded!
+[Info   :   BepInEx] Loading [MeteoMultiplier 1.1.3]
+[Info   :MeteoMultiplier] Plugin MeteoMultiplier is loaded!
+[Info   :MeteoMultiplier] MultipliersEnabled: True
+[Info   :MeteoMultiplier] MultiplyApparatusEnabled: True
+[Info   :MeteoMultiplier] Multipliers:
+None:0.4
+DustClouds:0.44
+Foggy:0.44
+Rainy:0.44
+Stormy:0.52
+Flooded:0.56
+Eclipsed:0.6
+[Info   :MeteoMultiplier] SpawnMultipliersEnabled: False
+[Info   :MeteoMultiplier] SpawnMultipliers:
+None:1
+DustClouds:1.25
+Foggy:1.25
+Rainy:1.25
+Stormy:1.5
+Flooded:1.5
+Eclipsed:1.5
+[Info   :   BepInEx] Loading [ShipLobby 1.0.2]
+[Info   :   BepInEx] Loading [ShipLoot 1.1]
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at E:\games\lethalfriends\Lethal Company\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [DiscountAlert 2.3.0.0]
+[Info   :DiscountAlert] Plugin discount.alert is loaded!
+[Info   :   BepInEx] Loading [BetterStamina 1.3.2]
+[Info   :BetterStamina] BindingConfigs
+[Info   :BetterStamina] BetterStamina loaded
+[Info   :   BepInEx] Loading [FasterItemDropship 1.3.0]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [HotbarPlus 1.7.4]
+[Info   :HotbarPlus-1.7.4] BindingConfigs
+[Info   :HotbarPlus-1.7.4] HotbarPlus loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.33]
+[Info   :ReservedItemSlotCore-2.0.33] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.33] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 2.0.6]
+[Info   :ReservedFlashlightSlot-2.0.6] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.33] Created ReservedItemSlotData for: flashlight. Slot priority: 200
+[Info   :ReservedFlashlightSlot-2.0.6] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 2.0.5]
+[Info   :ReservedWalkieSlot-2.0.5] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.33] Created ReservedItemSlotData for: walkie_talkie. Slot priority: 150
+[Info   :ReservedWalkieSlot-2.0.5] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [TooManyEmotes 2.2.2]
+[Info   :TooManyEmotes-2.2.2] BindingConfigs
+[Info   :TooManyEmotes-2.2.2] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 28 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 99 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 131 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 90 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-2.2.2] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
+[Info   :TooManyEmotes-2.2.2] Successfully loaded radial menu asset.
+[Warning: Unity Log] The referenced script (PropAnimationRecorder) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '') is missing!
+[Info   :TooManyEmotes-2.2.2] Loaded 27 emote props.
+[Info   :TooManyEmotes-2.2.2] Loading 143 dmca-free audio clips.
+[Info   :TooManyEmotes-2.2.2] Loading 152 dmca audio clips.
+[Info   :TooManyEmotes-2.2.2] TooManyEmotes finished loading!
+[Info   :   BepInEx] Loading [LethalClunk 1.1.1]
+[Info   :LethalClunk] Plugin LethalClunk is loaded!
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [Jump Delay Patch 0.0.0.1]
+[Info   :Jump Delay Patch] Plugin JumpDelayPatch is loaded!
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Bonk Hit SFX 1.0.5]
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loading.
+[Info   :sunnobunno.bonkhitsfx] sunnobunno.bonkhitsfx is loaded. Ow.
+[Info   :   BepInEx] Loading [Land Mine Fart Reverb 1.0.3]
+[Info   :sunnobunno.landminefartreverb] sunnobunno.landminefartreverb is loading.
+[Info   :sunnobunno.landminefartreverb] sunnobunno.landminefartreverb is loaded. Pee-yeww.
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.4]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.4]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.4 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :suskitech.LCAlwaysHearActiveWalkie] 
+[Info   :suskitech.LCAlwaysHearActiveWalkie] AudibleDistance: 12
+[Info   :suskitech.LCAlwaysHearActiveWalkie] WalkieRecordingRange: 20
+[Info   :suskitech.LCAlwaysHearActiveWalkie] PlayerToPlayerSpatialHearingRange: 20
+[Info   :   BepInEx] Loading [CoilHeadStare 1.0.9]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.0.9 loaded.
+[Info   :   BepInEx] Loading [More Suits 1.4.3]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Info   :   BepInEx] Loading [Too Many Suits 1.1.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :ReservedFlashlightSlot-2.0.6] Initializing hotkeys.
+[Info   :ReservedWalkieSlot-2.0.5] Initializing hotkeys.
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   : Unity Log] Returning week num: 36
+[Info   : Unity Log] week num: 36
+[Info   : Unity Log] Set challenge moon completed A
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 36
+[Info   : Unity Log] 0
+[Info   : Unity Log] scrapEarnedInFile: 0
+[Info   : Unity Log] unsubscribing from steam callbacks

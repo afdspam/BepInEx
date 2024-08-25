@@ -1,0 +1,9 @@
+{
+    "_NormalScale": "1.0",
+
+    "_EmissiveColorMap": "bracken.png",
+    "_UseEmissiveIntensity": 1.0,
+    "_EmissiveIntensity": 120000.0,
+    "_EmissiveColor": "255.0, 255.0, 255.0, 1.0",
+    "_EMISSIVE_COLOR_MAP": "KEYWORD"
+}
