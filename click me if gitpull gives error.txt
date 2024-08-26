@@ -1,0 +1,5 @@
+If any sort error while git pull
+Delete the BepInEx Folder
+and right click to open git bash in lethal company game folder
+and type "git clone https://github.com/afdspam/BepInEx.git" without quotes in the window
+that will re install all the mods
