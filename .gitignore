@@ -2,3 +2,5 @@ plugins/BadAssCompany/assetbundles/baddassaudio
 LogOutput.log
 config/com.weliveinasociety.CustomEmotesAPI.cfg
 cache/
+config/ControlCompany.ControlCompany.cfg
+plugins/ControlCompany.dll
